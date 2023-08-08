@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasudXpeed
+- 👋 Hi, I’m @Masud Rana
 - 👀 I’m interested in ... PHP, WordPress, Javascript, ReactJS, VueJS
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... PHP, WordPress
